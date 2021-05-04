@@ -1,0 +1,8 @@
+Rencana website:
+- menggunakan framework responsive
+- membuat web yang sangat responsive untuk semua device
+- memiliki search engine sendiri
+- teknologi terbarukan
+- banyak animasi
+- menggunakan sistem membership yang otomatis
+- memiliki chatbot
